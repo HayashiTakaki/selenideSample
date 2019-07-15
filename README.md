@@ -9,7 +9,8 @@ using
 
 ---
 
-## test ditail
-- show top page of Qiita
-- search items
-- take Screen shot
+## Test details
+
+- Display the top page of Qiita
+- Execute search
+- Take a screenshot
